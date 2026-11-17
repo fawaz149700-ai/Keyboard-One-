@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">كيبورد خط</string>
+    <string name="ime_service_label">كيبورد خط (Khatt)</string>
+    <string name="subtype_ar">العربية</string>
+    <string name="subtype_en">English</string>
+    <string name="subtype_fr">Français</string>
+    <string name="subtype_es">Español</string>
+    <string name="subtype_tr">Türkçe</string>
+    <string name="subtype_fa">فارسی</string>
+    <string name="subtype_ur">اردو</string>
+    <string name="subtype_ru">Русский</string>
+    <string name="subtype_de">Deutsch</string>
+
+    <string name="biometric_title">قفل الحافظة</string>
+    <string name="biometric_subtitle">تحقق بالبصمة أو رمز الجهاز لفتح الحافظة</string>
+    <string name="biometric_negative">إلغاء</string>
+
+    <string name="cd_hero_banner">رسم توضيحي للوحة مفاتيح كيبورد خط</string>
+    <string name="cd_back">رجوع</string>
+    <string name="cd_settings">الإعدادات</string>
+    <string name="cd_emoji">الإيموجي</string>
+    <string name="cd_clipboard">الحافظة</string>
+    <string name="cd_translate">الترجمة</string>
+    <string name="cd_decorate">الزخرفة</string>
+    <string name="cd_symbols">الرموز</string>
+    <string name="cd_hand_mode">وضع اليد الواحدة والعائم</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "كيبورد خط",
+  "description": "لوحة مفاتيح أندرويد متكاملة تدعم العربية والإنجليزية ولغات متعددة، مع حافظة ذكية، ترجمة فورية، زخرفة نصوص، ثيمات آيفون وماتيريال يو، والتحكم بالأشرطة عبر السحب على المسطرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

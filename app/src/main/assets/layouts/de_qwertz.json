@@ -1,0 +1,42 @@
+{
+  "languageId": "GERMAN",
+  "variant": "QWERTZ",
+  "displayName": "Deutsch (QWERTZ)",
+  "isRtl": false,
+  "columns": 10,
+  "rows": [
+    [
+      {"label": "q", "output": "q", "shiftOutput": "Q", "alternates": ["1"]},
+      {"label": "w", "output": "w", "shiftOutput": "W", "alternates": ["2"]},
+      {"label": "e", "output": "e", "shiftOutput": "E", "alternates": ["€", "é", "è", "3"]},
+      {"label": "r", "output": "r", "shiftOutput": "R", "alternates": ["4"]},
+      {"label": "t", "output": "t", "shiftOutput": "T", "alternates": ["5"]},
+      {"label": "z", "output": "z", "shiftOutput": "Z", "alternates": ["6"]},
+      {"label": "u", "output": "u", "shiftOutput": "U", "alternates": ["ü", "7"]},
+      {"label": "i", "output": "i", "shiftOutput": "I", "alternates": ["8"]},
+      {"label": "o", "output": "o", "shiftOutput": "O", "alternates": ["ö", "9"]},
+      {"label": "p", "output": "p", "shiftOutput": "P", "alternates": ["0"]}
+    ],
+    [
+      {"label": "a", "output": "a", "shiftOutput": "A", "alternates": ["ä", "@"]},
+      {"label": "s", "output": "s", "shiftOutput": "S", "alternates": ["ß", "$"]},
+      {"label": "d", "output": "d", "shiftOutput": "D", "alternates": []},
+      {"label": "f", "output": "f", "shiftOutput": "F", "alternates": []},
+      {"label": "g", "output": "g", "shiftOutput": "G", "alternates": []},
+      {"label": "h", "output": "h", "shiftOutput": "H", "alternates": []},
+      {"label": "j", "output": "j", "shiftOutput": "J", "alternates": []},
+      {"label": "k", "output": "k", "shiftOutput": "K", "alternates": []},
+      {"label": "l", "output": "l", "shiftOutput": "L", "alternates": []},
+      {"label": "ü", "output": "ü", "shiftOutput": "Ü", "alternates": ["ä", "ö"]}
+    ],
+    [
+      {"label": "y", "output": "y", "shiftOutput": "Y", "alternates": []},
+      {"label": "x", "output": "x", "shiftOutput": "X", "alternates": []},
+      {"label": "c", "output": "c", "shiftOutput": "C", "alternates": []},
+      {"label": "v", "output": "v", "shiftOutput": "V", "alternates": []},
+      {"label": "b", "output": "b", "shiftOutput": "B", "alternates": []},
+      {"label": "n", "output": "n", "shiftOutput": "N", "alternates": []},
+      {"label": "m", "output": "m", "shiftOutput": "M", "alternates": ["µ", "ä", "ö"]}
+    ]
+  ]
+}

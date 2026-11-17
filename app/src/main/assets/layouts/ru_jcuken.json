@@ -1,0 +1,44 @@
+{
+  "languageId": "RUSSIAN",
+  "variant": "QWERTY",
+  "displayName": "Русский (ЙЦУКЕН)",
+  "isRtl": false,
+  "columns": 10,
+  "rows": [
+    [
+      {"label": "й", "output": "й", "shiftOutput": "Й", "alternates": ["1"]},
+      {"label": "ц", "output": "ц", "shiftOutput": "Ц", "alternates": ["2"]},
+      {"label": "у", "output": "у", "shiftOutput": "У", "alternates": ["3"]},
+      {"label": "к", "output": "к", "shiftOutput": "К", "alternates": ["4"]},
+      {"label": "е", "output": "е", "shiftOutput": "Е", "alternates": ["ё", "5"]},
+      {"label": "н", "output": "н", "shiftOutput": "Н", "alternates": ["6"]},
+      {"label": "г", "output": "г", "shiftOutput": "Г", "alternates": ["7"]},
+      {"label": "ш", "output": "ш", "shiftOutput": "Ш", "alternates": ["щ", "8"]},
+      {"label": "з", "output": "з", "shiftOutput": "З", "alternates": ["9"]},
+      {"label": "х", "output": "х", "shiftOutput": "Х", "alternates": ["ъ", "0"]}
+    ],
+    [
+      {"label": "ф", "output": "ф", "shiftOutput": "Ф", "alternates": []},
+      {"label": "ы", "output": "ы", "shiftOutput": "Ы", "alternates": []},
+      {"label": "в", "output": "в", "shiftOutput": "В", "alternates": []},
+      {"label": "а", "output": "а", "shiftOutput": "А", "alternates": []},
+      {"label": "п", "output": "п", "shiftOutput": "П", "alternates": []},
+      {"label": "р", "output": "р", "shiftOutput": "Р", "alternates": ["₽"]},
+      {"label": "о", "output": "о", "shiftOutput": "О", "alternates": []},
+      {"label": "л", "output": "л", "shiftOutput": "Л", "alternates": []},
+      {"label": "д", "output": "д", "shiftOutput": "Д", "alternates": []},
+      {"label": "ж", "output": "ж", "shiftOutput": "Ж", "alternates": ["э"]}
+    ],
+    [
+      {"label": "я", "output": "я", "shiftOutput": "Я", "alternates": []},
+      {"label": "ч", "output": "ч", "shiftOutput": "Ч", "alternates": []},
+      {"label": "с", "output": "с", "shiftOutput": "С", "alternates": []},
+      {"label": "м", "output": "м", "shiftOutput": "М", "alternates": []},
+      {"label": "и", "output": "и", "shiftOutput": "И", "alternates": []},
+      {"label": "т", "output": "т", "shiftOutput": "Т", "alternates": []},
+      {"label": "ь", "output": "ь", "shiftOutput": "Ь", "alternates": ["ъ"]},
+      {"label": "б", "output": "б", "shiftOutput": "Б", "alternates": []},
+      {"label": "ю", "output": "ю", "shiftOutput": "Ю", "alternates": ["э"]}
+    ]
+  ]
+}

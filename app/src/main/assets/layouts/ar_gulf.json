@@ -1,0 +1,45 @@
+{
+  "languageId": "ARABIC",
+  "variant": "AR_GULF",
+  "displayName": "العربية (الخليجي)",
+  "isRtl": true,
+  "columns": 10,
+  "rows": [
+    [
+      {"label": "ض", "output": "ض", "alternates": ["ظ", "ضَ"]},
+      {"label": "ص", "output": "ص", "alternates": ["صَ", "صُ", "ﷺ"]},
+      {"label": "ث", "output": "ث", "alternates": ["ثَ", "ثُ"]},
+      {"label": "ق", "output": "ق", "alternates": ["قَ", "قُ", "ڨ"]},
+      {"label": "ف", "output": "ف", "alternates": ["ڤ", "فَ"]},
+      {"label": "غ", "output": "غ", "alternates": ["غَ", "غُ"]},
+      {"label": "ع", "output": "ع", "alternates": ["عَ", "عُ"]},
+      {"label": "ه", "output": "ه", "alternates": ["ة", "هَ"]},
+      {"label": "خ", "output": "خ", "alternates": ["خَ", "خُ"]},
+      {"label": "ح", "output": "ح", "alternates": ["حَ", "حُ"]}
+    ],
+    [
+      {"label": "ش", "output": "ش", "alternates": ["شَ", "شُ"]},
+      {"label": "س", "output": "س", "alternates": ["سَ", "سُ"]},
+      {"label": "ي", "output": "ي", "alternates": ["ى", "ئ"]},
+      {"label": "ب", "output": "ب", "alternates": ["پ", "بَ"]},
+      {"label": "ل", "output": "ل", "alternates": ["لا", "لأ", "لإ"]},
+      {"label": "ا", "output": "ا", "alternates": ["أ", "إ", "آ", "ء"]},
+      {"label": "ت", "output": "ت", "alternates": ["ة", "تَ"]},
+      {"label": "ن", "output": "ن", "alternates": ["نَ", "نُ"]},
+      {"label": "م", "output": "م", "alternates": ["مَ", "مُ"]},
+      {"label": "ك", "output": "ك", "alternates": ["چ", "گ", "كَ"]}
+    ],
+    [
+      {"label": "أ", "output": "أ", "alternates": ["إ", "آ", "ء", "ؤ", "ئ", "َ", "ً", "ُ", "ٌ", "ِ", "ٍ", "ْ", "ّ"]},
+      {"label": "ط", "output": "ط", "alternates": ["ظ", "طَ"]},
+      {"label": "ر", "output": "ر", "alternates": ["ز", "رَ"]},
+      {"label": "ى", "output": "ى", "alternates": ["ي", "ئ"]},
+      {"label": "ة", "output": "ة", "alternates": ["ت", "ه"]},
+      {"label": "و", "output": "و", "alternates": ["ؤ", "وَ"]},
+      {"label": "د", "output": "د", "alternates": ["ذ", "دَ"]},
+      {"label": "ز", "output": "ز", "alternates": ["ذ", "ر"]},
+      {"label": "ذ", "output": "ذ", "alternates": ["د", "ظ"]},
+      {"label": "ج", "output": "ج", "alternates": ["چ", "ح"]}
+    ]
+  ]
+}

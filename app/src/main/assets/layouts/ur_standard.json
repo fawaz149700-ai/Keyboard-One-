@@ -1,0 +1,45 @@
+{
+  "languageId": "URDU",
+  "variant": "AR_STANDARD",
+  "displayName": "اردو",
+  "isRtl": true,
+  "columns": 10,
+  "rows": [
+    [
+      {"label": "ق", "output": "ق", "alternates": []},
+      {"label": "و", "output": "و", "alternates": ["ؤ"]},
+      {"label": "ع", "output": "ع", "alternates": ["غ"]},
+      {"label": "ر", "output": "ر", "alternates": ["ڑ", "ز", "ژ"]},
+      {"label": "ت", "output": "ت", "alternates": ["ٹ", "ث", "ط"]},
+      {"label": "ے", "output": "ے", "alternates": ["ی", "ئ"]},
+      {"label": "ء", "output": "ء", "alternates": ["أ", "ؤ"]},
+      {"label": "ی", "output": "ی", "alternates": ["ے", "ئ"]},
+      {"label": "ہ", "output": "ہ", "alternates": ["ھ", "ح"]},
+      {"label": "پ", "output": "پ", "alternates": ["ب"]}
+    ],
+    [
+      {"label": "ا", "output": "ا", "alternates": ["آ", "أ"]},
+      {"label": "س", "output": "س", "alternates": ["ص", "ث"]},
+      {"label": "د", "output": "د", "alternates": ["ڈ", "ذ"]},
+      {"label": "ف", "output": "ف", "alternates": []},
+      {"label": "گ", "output": "گ", "alternates": ["غ"]},
+      {"label": "ح", "output": "ح", "alternates": ["ہ", "ھ"]},
+      {"label": "ج", "output": "ج", "alternates": ["چ", "خ"]},
+      {"label": "ک", "output": "ک", "alternates": ["ق", "گ"]},
+      {"label": "ل", "output": "ل", "alternates": []},
+      {"label": "ش", "output": "ش", "alternates": ["س"]}
+    ],
+    [
+      {"label": "ز", "output": "ز", "alternates": ["ژ", "ذ", "ض", "ظ"]},
+      {"label": "ط", "output": "ط", "alternates": ["ظ"]},
+      {"label": "چ", "output": "چ", "alternates": ["ج"]},
+      {"label": "ڑ", "output": "ڑ", "alternates": ["ر"]},
+      {"label": "ب", "output": "ب", "alternates": ["پ"]},
+      {"label": "ن", "output": "ن", "alternates": ["ں"]},
+      {"label": "م", "output": "م", "alternates": []},
+      {"label": "ٹ", "output": "ٹ", "alternates": ["ت"]},
+      {"label": "ڈ", "output": "ڈ", "alternates": ["د"]},
+      {"label": "ں", "output": "ں", "alternates": ["ن"]}
+    ]
+  ]
+}

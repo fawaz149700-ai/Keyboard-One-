@@ -1,0 +1,45 @@
+{
+  "languageId": "PERSIAN",
+  "variant": "AR_STANDARD",
+  "displayName": "فارسی",
+  "isRtl": true,
+  "columns": 10,
+  "rows": [
+    [
+      {"label": "ض", "output": "ض", "alternates": []},
+      {"label": "ص", "output": "ص", "alternates": []},
+      {"label": "ث", "output": "ث", "alternates": []},
+      {"label": "ق", "output": "ق", "alternates": []},
+      {"label": "ف", "output": "ف", "alternates": []},
+      {"label": "غ", "output": "غ", "alternates": []},
+      {"label": "ع", "output": "ع", "alternates": []},
+      {"label": "ه", "output": "ه", "alternates": ["ة", "ۀ"]},
+      {"label": "خ", "output": "خ", "alternates": []},
+      {"label": "ح", "output": "ح", "alternates": ["ج", "چ"]}
+    ],
+    [
+      {"label": "ش", "output": "ش", "alternates": []},
+      {"label": "س", "output": "س", "alternates": []},
+      {"label": "ی", "output": "ی", "alternates": ["ي", "ئ"]},
+      {"label": "ب", "output": "ب", "alternates": ["پ"]},
+      {"label": "ل", "output": "ل", "alternates": []},
+      {"label": "ا", "output": "ا", "alternates": ["آ", "أ", "إ", "ء"]},
+      {"label": "ت", "output": "ت", "alternates": ["ط"]},
+      {"label": "ن", "output": "ن", "alternates": []},
+      {"label": "م", "output": "م", "alternates": []},
+      {"label": "ک", "output": "ک", "alternates": ["گ", "ك"]}
+    ],
+    [
+      {"label": "ظ", "output": "ظ", "alternates": ["ط"]},
+      {"label": "پ", "output": "پ", "alternates": ["ب"]},
+      {"label": "ژ", "output": "ژ", "alternates": ["ز"]},
+      {"label": "ر", "output": "ر", "alternates": ["ز", "ژ"]},
+      {"label": "ذ", "output": "ذ", "alternates": ["د"]},
+      {"label": "د", "output": "د", "alternates": ["ذ"]},
+      {"label": "گ", "output": "گ", "alternates": ["ک"]},
+      {"label": "و", "output": "و", "alternates": ["ؤ"]},
+      {"label": "چ", "output": "چ", "alternates": ["ج"]},
+      {"label": "ج", "output": "ج", "alternates": ["چ"]}
+    ]
+  ]
+}
